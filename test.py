@@ -4,4 +4,4 @@ def newFun():
     print("new")
 
 def moreNewFunc():
-    pass()
+    print("more new")
